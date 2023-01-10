@@ -1,1 +1,1 @@
-# -CustomTime
+CustomTime is a device used to measure and indicate time. The clock is one of the oldest human inventions, meeting the need to measure intervals of time shorter than the natural units such as the day, the lunar month and the year.
